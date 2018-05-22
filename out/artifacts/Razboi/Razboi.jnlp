@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Razboi.jnlp">
+  <information>
+    <title>Razboi</title>
+    <vendor>Unknown</vendor>
+    <description>Razboi</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Razboi.jar" size="12348" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="RazboiFX.Main"  name="Razboi" />
+  <update check="background"/>
+</jnlp>

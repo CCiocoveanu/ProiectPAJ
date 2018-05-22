@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Razboi">
+    <output-path>$PROJECT_DIR$/out/artifacts/Razboi</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="RazboiFX.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Razboi.jar">
+        <element id="module-output" name="Razboi" />
+      </element>
+    </root>
+  </artifact>
+</component>
